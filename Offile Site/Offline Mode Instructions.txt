@@ -1,0 +1,5 @@
+Instruction to run the Website Offline
+1.	Extract the  Zip file to a folder of  your choice 
+2.	Open the ‘Open Site’ Shortcut Link to Open the website in the default Web browser
+
+Thank you
